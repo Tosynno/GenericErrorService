@@ -20,7 +20,7 @@ namespace Presentation.Controllers
         protected IErrorLogRepo _IErrorLogRepo;
         protected ErrorLogResponse logResponse;
         private readonly IMapper _mapper;
-        Logger logger  = NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
+        Logger logger  = NLogBuilder.ConfigureNLog("../nlog.config").GetCurrentClassLogger();
 
         public ErrorLogController(IErrorLogRepo iErrorLogRepo, IMapper mapper)
         {
