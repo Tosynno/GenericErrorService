@@ -24,12 +24,12 @@ namespace Presentation.Extensions
         {
             BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String));
             BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(BsonType.String));
-            services.AddSingleton<IMongoClient>(serverpro =>
+            services.AddScoped<IMongoClient>(serverpro =>
             {
                 var settings = config.GetSection(nameof(MongDbSettings)).Get<MongDbSettings>();
                 return new MongoClient(settings.ConnectionString);
             });
-            services.AddSingleton<IErrorLogRepo, MongoDBContextRepository>();
+            services.AddScoped<IErrorLogRepo, MongoDBContextRepository>();
             services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
 
             // DI for FluentValidator

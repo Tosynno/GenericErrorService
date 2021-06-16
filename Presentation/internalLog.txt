@@ -18,3 +18,34 @@
 2021-06-15 23:42:02.1301 Info Adding target FileTarget(Name=alldata)
 2021-06-15 23:42:02.1340 Info Adding target FileTarget(Name=otherFile-web)
 2021-06-15 23:42:02.1723 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=47, FilePath=C:\Users\USER\source\repos\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config
+2021-06-16 11:36:17.3852 Info Message Template Auto Format enabled
+2021-06-16 11:36:17.4342 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-16 11:36:17.7370 Info Adding target FileTarget(Name=alldata)
+2021-06-16 11:36:17.7549 Info Adding target FileTarget(Name=otherFile-web)
+2021-06-16 11:36:17.8239 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=47, FilePath=C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config
+2021-06-16 11:37:16.5813 Info Configuring from an XML element in C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config...
+2021-06-16 11:37:16.5813 Info Message Template Auto Format enabled
+2021-06-16 11:37:16.5813 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-16 11:37:16.5813 Info Adding target FileTarget(Name=alldata)
+2021-06-16 11:37:16.5813 Info Adding target FileTarget(Name=otherFile-web)
+2021-06-16 11:37:16.5813 Info Closing old configuration.
+2021-06-16 11:37:16.7354 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=47, FilePath=C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config
+2021-06-16 11:38:23.9259 Info Configuring from an XML element in C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config...
+2021-06-16 11:38:23.9259 Info Message Template Auto Format enabled
+2021-06-16 11:38:23.9259 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-16 11:38:23.9259 Info Adding target FileTarget(Name=alldata)
+2021-06-16 11:38:23.9259 Info Adding target FileTarget(Name=otherFile-web)
+2021-06-16 11:38:23.9259 Info Closing old configuration.
+2021-06-16 11:38:23.9259 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=47, FilePath=C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config
+2021-06-16 11:38:48.6178 Info Configuring from an XML element in C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config...
+2021-06-16 11:38:48.6178 Info Message Template Auto Format enabled
+2021-06-16 11:38:48.6178 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-16 11:38:48.6178 Info Adding target FileTarget(Name=alldata)
+2021-06-16 11:38:48.6178 Info Adding target FileTarget(Name=otherFile-web)
+2021-06-16 11:38:48.6290 Info Closing old configuration.
+2021-06-16 11:38:48.6290 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=47, FilePath=C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config
+2021-06-16 11:41:58.9991 Info Message Template Auto Format enabled
+2021-06-16 11:41:59.0741 Info Loading assembly: NLog.Web.AspNetCore
+2021-06-16 11:41:59.2222 Info Adding target FileTarget(Name=alldata)
+2021-06-16 11:41:59.2322 Info Adding target FileTarget(Name=otherFile-web)
+2021-06-16 11:41:59.3398 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=47, FilePath=C:\Users\USER\source\repos\BACKEND-IMPEROTECHNE\ERRORLOGSERVICE\GenericErrorService\Presentation\bin\Debug\net5.0\nlog.config
